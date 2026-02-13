@@ -67,7 +67,7 @@ Bot: 🔔 Netflix - Due in 5 days (€15.99)
 ## Links
 
 - 📖 [SKILL.md](SKILL.md) — Full documentation
-- 🔗 [GitHub](https://github.com/MeghanBao/subscription-tracker-openclaw-skill))
+- 🔗 [GitHub](https://github.com/MeghanBao/subscription-tracker-openclaw-skill)
 
 ---
 
