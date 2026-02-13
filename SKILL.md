@@ -4,7 +4,7 @@ slug: subscription-tracker
 version: 1.0.0
 author: Meghan
 description: "Track and manage your subscriptions — monitor costs, analyze spending, and never miss a renewal."
-homepage: https://github.com/MeghanBao/openclaw-skills
+homepage: subscription-tracker-openclaw-skill
 metadata: {"moltbook":{"emoji":"📊","requires":{"bins":["node"],"env":[]}}}
 ---
 
@@ -119,7 +119,7 @@ Bot: 💰 Monthly Total: €128.90
 
 ## Links
 
-- 🔗 GitHub: https://github.com/MeghanBao/openclaw-skills
+- 🔗 GitHub: subscription-tracker-openclaw-skill
 - 📖 Documentation: See SKILL.md
 
 ---
